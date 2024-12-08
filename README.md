@@ -1,75 +1,77 @@
 ![background](https://github.com/musman-js/musman-js/assets/142093838/3aca18ca-3f5c-4f3a-a816-31fdb44367dc)
 
+# 💫 About Me:
+👋 Hi, I’m **Syed Mubashir Shah** (@Xyntax-source)  
+👀 **About Me**  
+I’m an Agentic & Robotic AI Engineer with expertise in:  
+- **Generative AI** and Large Language Model (LLM) fine-tuning.  
+- Developing autonomous **AI agents, humanoid robots**, and multi-agent systems.  
+- **Cloud-native AI solutions**, including microservices with Docker, Kubernetes, and Terraform.  
+- Distributed AI computing frameworks, such as **Ray**, for scaling machine learning workflows.  
+- **Knowledge Graphs** and Graph Databases like Neo4j for managing complex data relationships.  
 
-# 💫 About Me:<h2 align="center">🌟 A Passionate Agentic & Robotic AI Engineer! 🌟</h2>
+🌱 **Currently Learning**:  
+- Advanced techniques in AI-powered Robotics using **ROS 2** and **NVIDIA Isaac**.  
+- Enhancing distributed machine learning workflows with **Ray**.  
+- Exploring cutting-edge methods in **Agentic AI** and Multi-Agent Systems.  
 
-<p>
-Hello, tech enthusiasts and innovators! I'm <strong>Syed Mubashir Shah</strong>, a dedicated AI Engineer specializing in bridging the gap between <em>digital intelligence</em> and the <em>physical world</em>. I thrive in crafting autonomous AI systems, fine-tuning LLMs, and building innovative solutions for real-world challenges.
-</p>
+💞️ **Looking to Collaborate On**:  
+- Projects involving **LLM fine-tuning** and **Custom GPT development**.  
+- Building scalable AI-powered microservices for real-world applications.  
+- Innovations at the intersection of **robotics** and **AI agents**.  
 
-<p>
-My GitHub is home to exciting projects, including cutting-edge research in robotics, AI-powered agents, and scalable cloud-based systems. I'm passionate about creating intelligent systems that redefine possibilities.
-</p>
+📫 **How to Reach Me**:  
+- **Email**: ab4545005@gmail.com  
+- **Mobile**: +92 320 9736185  
+- **LinkedIn**: [linkedin.com/in/syed-mubashir-shah](https://linkedin.com/in/syed-mubashir-shah)  
+- **Personal Links**: [linktr.ee/Xyntax](https://linktr.ee/Xyntax)  
 
-<br>
-
-<p align="right">
-    <img src="https://komarev.com/ghpvc/?username=Xyntax-source&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" width="130" height="140" />
-</p>
-
-<img src="https://github.com/musman-js/musman-js/assets/142093838/3aca18ca-3f5c-4f3a-a816-31fdb44367dc" alt="AI Coding" width="350" align="right" style="margin-top: -30px; margin-bottom: 15px;" />
-
-- 🌱 I’m currently diving into **ROS 2, NVIDIA Isaac, and Distributed AI with Ray**.  
-- 💬 Ask me about **Generative AI, LLM Fine-Tuning, Robotics, and Cloud AI Solutions**.  
-- 📫 Reach me at: **ab4545005@gmail.com** or **+92 320 9736185**.  
-- 👨‍💻 Explore my portfolio: [linktr.ee/Xyntax](https://linktr.ee/Xyntax).
-
----
-
-<h3 align="left">📫 Connect with me on 🔗:</h3>
-<p align="left">
-    <a href="https://www.linkedin.com/in/syed-mubashir-shah" target="_blank">
-        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-    </a>
-    <a href="https://wa.me/+923209736185" target="_blank">
-        <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp">
-    </a>
-    <a href="mailto:ab4545005@gmail.com" target="_blank">
-        <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
-    </a>
-</p>
-
-<hr>
-
-<h3 align="left">⚙️ Tools and Technologies:</h3>
-<p align="center">
-    <img src="https://skillicons.dev/icons?i=python,java,go,typescript,react,tailwind,github,vscode" alt="Languages and Tools">
-    <img src="https://skillicons.dev/icons?i=docker,kubernetes,neo4j,firebase,figma,postman" alt="DevOps and Tools">
-    <img src="https://skillicons.dev/icons?i=flutter,cs" alt="Mobile Development">
-</p>
+⚡ **Fun Fact**:  
+I thrive on bridging the gap between digital and physical AI technologies, working to drive innovation in the **Fourth Industrial Revolution**!
 
 ---
 
-<h3 align="left">📚 Plans of Learning:</h3>
-<p align="center">
-    <img src="https://skillicons.dev/icons?i=nextjs,redux,mongodb,kotlin,django,laravel" alt="Learning Plans">
-</p>
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/syed-mubashir-shah)
 
 ---
 
-<h3 align="center">🚀 Let's Collaborate!</h3>
-<p align="center">
-    I'm always excited to work on groundbreaking projects. Feel free to reach out, and let's innovate together! 🌟
-</p>
+# 💻 Tech Stack:
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) 
+![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) 
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) 
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) 
 
+... *(and other technologies you listed)* ...
+
+---
+
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Xyntax-source&theme=dark&hide_border=false&include_all_commits=false&count_private=false)  
+![](https://github-readme-streak-stats.herokuapp.com/?user=Xyntax-source&theme=dark&hide_border=false)  
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Xyntax-source&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+---
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Xyntax-source&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
+---
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+---
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Xyntax-source&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
+
 [![](https://visitcount.itsvg.in/api?id=Xyntax-source&icon=0&color=0)](https://visitcount.itsvg.in)
+
+---
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
