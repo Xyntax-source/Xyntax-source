@@ -24,8 +24,5 @@ I’m an **Agentic & Robotic AI Engineer** with expertise in:
 - **LinkedIn**: [linkedin.com/in/syed-mubashir-shah](https://www.linkedin.com/in/syed-mubashir-shah)  
 - **Personal Links**: [linktr.ee/Xyntax](https://linktr.ee/Xyntax)
 
-## 😄 Pronouns:
-He/Him
-
 ## ⚡ Fun fact:
 I thrive on bridging the gap between **digital and physical AI technologies**, working to drive innovation in the Fourth Industrial Revolution!
